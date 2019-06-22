@@ -1,8 +1,6 @@
 # ChildCareProblem
 Primeiro trabalho da disciplina de Sistemas Operacionais ministrada pelo prof. Hélio Crestana Guardia e pela profa. Kelen Vivaldini. 
 
-  Sistemas Operacionais<br>
-  Child Care Problem<br>
 <br>
 Esse projeto tem o intuito de implementar um programa com várias threads que
 se comunicam. Para isso foram utilizados mecanismos como semáforos e um mutex.<br>
